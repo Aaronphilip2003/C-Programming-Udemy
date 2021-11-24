@@ -16,4 +16,5 @@ int main()
 /*
 C programming has many format specifiers as mentioned above
 %.3f specifies that we need only 3 a decimal precision
+The format specifier for a double is %lf
 */

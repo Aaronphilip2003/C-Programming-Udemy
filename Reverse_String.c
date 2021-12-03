@@ -3,7 +3,7 @@
 int main()
 {
     char string[100];
-    printf("Enter a string to check whether it is a palindrome or not:");
+    printf("Enter a string to get its reverse:");
     scanf("%s",string);
     char reverse[100];
     int len=0;

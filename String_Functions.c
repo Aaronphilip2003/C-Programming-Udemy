@@ -18,7 +18,7 @@ int main()
 
     char final_string[50];
     strncat(string,source,sizeof(string));
-    printf("Conatenated String: %s\n",string);
+    printf("Concatenated String: %s\n",string);
 
     // String compare
 
